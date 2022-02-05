@@ -29,20 +29,18 @@
 		<dependency>
 			<groupId>com.unboundid</groupId>
 			<artifactId>unboundid-ldapsdk</artifactId>
-			<version>6.0.3</version>
-			<scope>test</scope>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.springframework.ldap/spring-ldap-core -->
 		<dependency>
 			<groupId>org.springframework.ldap</groupId>
 			<artifactId>spring-ldap-core</artifactId>
-			<version>2.3.5.RELEASE</version>
+
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.springframework.security/spring-security-ldap -->
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-ldap</artifactId>
-			<version>5.6.1</version>
+
 		</dependency>
 
 		<dependency>
